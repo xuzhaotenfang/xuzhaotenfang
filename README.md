@@ -1,16 +1,31 @@
-## Hi there 👋
+[Confused? 中文版](./README_zh.md)
 
-<!--
-**xuzhaotenfang/xuzhaotenfang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+# CourReT 
 
-Here are some ideas to get you started:
+> *"My legal name is xuzhaotengfang (purely for the education discount lol 〒▽〒), but in the code world, I prefer the identity **CourReT**."*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### About the name
+
+Funny thing — I can barely remember my full name ⿻Cour De Rotin⿴. I just know it starts with `Cour...` and then something something 🤔. So I just shortened it to **CourReT**. Rolls off the tongue, easy to type. Good enough.
+
+As for *Cour De Rotin* — it's French for "藤苑" (Rattan Courtyard). A courtyard of vines. Quiet, a little wild, but full of life. 🌿
+
+### About me
+
+> Nothing much to say. Just putting my waifu here.
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/c127db2b-8590-434a-8742-4e91595ec066" width="400" alt="Monica"/>
+  <p>
+    <em>Silent Witch: Chinmoku no Majo no Kakushigoto</em><br>
+    <sub>Illustrator: <a href="https://twitter.com/toi81008">toi8</a></sub>
+  </p>
+</div>
+
+> Monica is genuinely, ridiculously pretty. (￣y▽,￣)╭
