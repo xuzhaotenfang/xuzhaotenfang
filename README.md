@@ -23,7 +23,7 @@ As for *Cour De Rotin* — it's French for "藤苑" (Rattan Courtyard). A courty
 <div align="center">
   <img src="https://github.com/user-attachments/assets/c127db2b-8590-434a-8742-4e91595ec066" width="400" alt="Monica"/>
   <p>
-    <em>Silent Witch: Chinmoku no Majo no Kakushigoto</em><br>
+    <em>サイレント・ウィッチ 沈黙の魔女の隠しごと</em><br>
     <sub>Illustrator: <a href="https://twitter.com/toi81008">toi8</a></sub>
   </p>
 </div>
